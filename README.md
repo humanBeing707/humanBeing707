@@ -7,7 +7,9 @@
 <img src="https://tenor.com/kSYVvec33or.gif" align="right"/>
 
 **Name:** ## vladem 
+<br>
 **about:** a Junior Programmer tryin to be Senior
+<br>
 **Hobbies:** Tech Stuff :3
 </center>
 
