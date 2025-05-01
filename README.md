@@ -4,9 +4,9 @@
 ## *About Me :3*
 
 
-**Name:**  
-**Loves:** 📺 Anime, 🎮 Games, 📚 Books  
-**Hobbies:** 💻 Tech Stuff, 🐧 Linux Ricing 
+**Name:** ## vladem 
+**Loves:**  cartoon, Games, Books  
+**Hobbies:** Tech Stuff :3
 </center>
 
 <!--img src = "https://tenor.com/view/lotm-lord-of-the-mysteries-mr-door-mr-door-lotm-klein-moretti-gif-1687054570750017081"/>-->
@@ -21,9 +21,9 @@
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="40"/>
 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/py.svg" width="40"/>
 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/js.svg" width="40"/>
 
 <!--<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="40"/> -->
 
