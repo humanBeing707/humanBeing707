@@ -14,7 +14,7 @@
 
 <!--img src = "https://tenor.com/view/lotm-lord-of-the-mysteries-mr-door-mr-door-lotm-klein-moretti-gif-1687054570750017081"/>-->
 
-<img src = "https://tenor.com/kSYVvec33or.gif"/>
+<img src = "[https://tenor.com/kSYVvec33or.gif](https://tenor.com/view/shiki-misaki-shiki-twewy-shiki-the-world-ends-with-you-anime-gif-8999709184397086713)"/>
 
 
 ## *What I Know*
