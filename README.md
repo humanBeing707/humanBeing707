@@ -1,6 +1,6 @@
 <div align="center">
      
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=37&duration=4960&pause=1000&color=FFFFFF&multiline=true&repeat=false&width=435&lines=welcome+to+my+github+%3C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=37&duration=4960&pause=1000&color=FFFFFF&multiline=true&width=435&lines=welcome+to+my+github+%3C3)](https://git.io/typing-svg)
 ## *About Me :3*
 
 
