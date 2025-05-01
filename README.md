@@ -4,7 +4,7 @@
 ## *About Me :3*
 
 
-<img src="https://tenor.com/kSYVvec33or.gif" align="right"/>
+<div class="tenor-gif-embed" data-postid="8999709184397086713" data-share-method="host" data-aspect-ratio="1.05957" data-width="100%"><a href="https://tenor.com/view/shiki-misaki-shiki-twewy-shiki-the-world-ends-with-you-anime-gif-8999709184397086713">Shiki Misaki Shiki Twewy GIF</a>from <a href="https://tenor.com/search/shiki+misaki-gifs">Shiki Misaki GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 **Name:** ## vladem 
 <br>
