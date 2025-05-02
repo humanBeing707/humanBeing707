@@ -5,7 +5,7 @@
 
 
 
-**Name:** ## vladem 
+**Name:** vladem 
 <br>
 **about:** a Junior Programmer tryin to be Senior
 <br>
