@@ -22,8 +22,6 @@ Cpmputer Science student exploring different areas of computing. This github for
 Tech Stuff
 </center>
 
-<!--img src = "https://tenor.com/view/lotm-lord-of-the-mysteries-mr-door-mr-door-lotm-klein-moretti-gif-1687054570750017081"/>-->
-
 
 
 ## *What I Know*
@@ -35,7 +33,8 @@ Tech Stuff
 
 <h3 align="left">Connect with me in:</h3>
 
-<p align="left">
+<p align="left">Soon...</p>
+<!--<p align="left">
 <a href="https://discord.gg/https://discord.gg/E73Txbx4r2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/E73Txbx4r2" height="30" width="40" /></a>
 </p>
 
