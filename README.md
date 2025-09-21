@@ -5,13 +5,17 @@
 
 
 
-**Name:** Abdulrahman Alghamdi
+**Name:**
+<br>
+Abdulrahman Alghamdi
 <br>
 <br>
 **about:** 
 <p>Cpmputer Science student exploring different areas of computing. This github for documenting my journey</p>
 <br>
-**Hobbies:** Tech Stuff :3
+**Hobbies:**
+<br>
+Tech Stuff
 </center>
 
 <!--img src = "https://tenor.com/view/lotm-lord-of-the-mysteries-mr-door-mr-door-lotm-klein-moretti-gif-1687054570750017081"/>-->
