@@ -9,7 +9,6 @@
 <br>
 Abdulrahman Alghamdi
 <br>
-<br>
 **about:** 
 <br>
 Cpmputer Science student exploring different areas of computing. This github for documenting my journey
