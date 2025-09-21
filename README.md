@@ -9,6 +9,8 @@
 <br>
 Abdulrahman Alghamdi
 <br>
+عبدالرحمن الغامدي
+<br>
 <br>
 **about:** 
 <br>
@@ -20,6 +22,8 @@ Cpmputer Science student exploring different areas of computing. This github for
 **Hobbies:**
 <br>
 Tech Stuff
+<br>
+الامور التقنيه
 </center>
 
 
