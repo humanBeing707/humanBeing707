@@ -9,9 +9,13 @@
 <br>
 Abdulrahman Alghamdi
 <br>
+<br>
 **about:** 
 <br>
 Cpmputer Science student exploring different areas of computing. This github for documenting my journey
+<br>
+طالب علوم حاسب يحاول يكتشف جميع مجالات الحاسب. حساب قيتهوب هذا عشان اشارك رحلتي هذي
+<br>
 <br>
 **Hobbies:**
 <br>
