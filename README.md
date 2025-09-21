@@ -1,13 +1,13 @@
 <div align="center">
      
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=37&duration=4960&pause=1000&color=FFFFFF&multiline=true&width=435&lines=welcome+to+my+github+%3C3)](https://git.io/typing-svg)
-## *About Me :3*
+## *About Me*
 
 
 
-**Name:** vladem 
+**Name:** Abdulrahman Alghamdi
 <br>
-**about:** a Junior Programmer tryin to be Senior
+**about:** Cpmputer Science student exploring different areas of computing. This github for documenting my journey
 <br>
 **Hobbies:** Tech Stuff :3
 </center>
