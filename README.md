@@ -11,7 +11,7 @@ Abdulrahman Alghamdi
 <br>
 <br>
 **about:** 
-<p>Cpmputer Science student exploring different areas of computing. This github for documenting my journey</p>
+Cpmputer Science student exploring different areas of computing. This github for documenting my journey
 <br>
 **Hobbies:**
 <br>
