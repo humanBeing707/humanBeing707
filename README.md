@@ -8,7 +8,7 @@
 **Name:** Abdulrahman Alghamdi
 <br>
 **about:** 
-Cpmputer Science student exploring different areas of computing. This github for documenting my journey
+<p>Cpmputer Science student exploring different areas of computing. This github for documenting my journey</p>
 <br>
 **Hobbies:** Tech Stuff :3
 </center>
