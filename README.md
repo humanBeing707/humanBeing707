@@ -6,6 +6,7 @@
 
 **Name:**  
 Abdulrahman Alghamdi 
+<br>
 عبدالرحمن الغامدي  
 <br>
 **Description:**  
@@ -17,9 +18,8 @@ Computer Science student exploring various fields of computing. This GitHub is d
 <br>
 **Hobbies:**  
 
-Technology, Writing, Networking, gaming
-   الالعاب     الشبكات       الكتابه        التقنيه
-
+Technology, Writing, Networking, Games
+الالعاب، الشبكات، الكتابه، التقنيه
 </div>
 
 ## ***Languages and Tools***
