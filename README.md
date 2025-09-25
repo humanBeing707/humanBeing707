@@ -26,7 +26,7 @@ Tech Stuff
 الامور التقنيه
 </center>
 
-**short info**
+## *short info*
 
 <img src = "https://64.media.tumblr.com/42ceeaf9acede06201ccf486be384ce8/tumblr_mm69bhm2Ce1s93xseo1_500.gif" align="right"/>
 
