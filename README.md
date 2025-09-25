@@ -28,7 +28,7 @@ Tech Stuff
 
 
 
-## *What I Know*
+## **
 
 <img src = "https://64.media.tumblr.com/42ceeaf9acede06201ccf486be384ce8/tumblr_mm69bhm2Ce1s93xseo1_500.gif" align="right"/>
 
@@ -41,7 +41,3 @@ Tech Stuff
 <!--<p align="left">
 <a href="https://discord.gg/https://discord.gg/E73Txbx4r2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/E73Txbx4r2" height="30" width="40" /></a>
 </p>
-
-<!--
-not Hinamu18 readme trust me
--->
