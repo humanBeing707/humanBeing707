@@ -39,7 +39,7 @@ Tech Stuff
 
 ## **GitHub Stats**
 
-![](https://github-readme-stats.vercel.app/api?username=humanBeing707&theme=onedark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=humanBeing707&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=humanBeing707&theme=coblat&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=humanBeing707&theme=coblat&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=NON_EXISTENT_USER&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nonexistent_user&theme=dracula&hide_border=true)<br/>
