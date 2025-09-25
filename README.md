@@ -30,13 +30,15 @@ Tech Stuff
 
 <h3 align="left">Languages and Tools:</h3>
 
+<div align = "left">
 ![Python](https://img.shields.io/badge/python-306998?style=flat&logo=python&logoColor=white)
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+</left>
 
 ## **GitHub Stats**
 
-![](https://github-readme-stats.vercel.app/api?username=humanBeing707&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=humanBeing707&theme=onedark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=humanBeing707&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=NON_EXISTENT_USER&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nonexistent_user&theme=dracula&hide_border=true)<br/>
