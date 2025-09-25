@@ -32,9 +32,11 @@ Tech Stuff
 
 ![Python](https://img.shields.io/badge/python-306998?style=flat&logo=python&logoColor=white)
 
-<h3 align="left">Connect with me in:</h3>
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<p align="left">Soon...</p>
-<!--<p align="left">
-<a href="https://discord.gg/https://discord.gg/E73Txbx4r2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/E73Txbx4r2" height="30" width="40" /></a>
-</p>
+## **GitHub Stats**
+
+![](https://github-readme-stats.vercel.app/api?username=humanBeing707&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=humanBeing707&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=NON_EXISTENT_USER&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nonexistent_user&theme=dracula&hide_border=true)<br/>
