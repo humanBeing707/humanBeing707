@@ -28,14 +28,11 @@ Tech Stuff
 
 ## ***Technologies***
 
-<h3 align="left">Languages and Tools:</h3>
-
-<div align = "left">
+<h3 align="center">Languages and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/python-306998?style=flat&logo=python&logoColor=white)
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-</left>
 
 ## **GitHub Stats**
 
