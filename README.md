@@ -31,7 +31,8 @@ Tech Stuff
 <img src = "https://64.media.tumblr.com/42ceeaf9acede06201ccf486be384ce8/tumblr_mm69bhm2Ce1s93xseo1_500.gif" align="right"/>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>   </p>
+<p align="left"> ![Python](https://img.shields.io/badge/python-306998?style=flat&logo=python&logoColor=white)
+![Pythonlogo](https://www.python.org/static/community_logos/python-logo.png)" alt="python" width="40" height="40"/> </a>   </p>
 
 <h3 align="left">Connect with me in:</h3>
 
