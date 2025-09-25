@@ -1,8 +1,8 @@
 <div align="center">
      
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=37&duration=4960&pause=1000&color=FFFFFF&multiline=true&width=435&lines=welcome+to+my+github+%3C3)](https://git.io/typing-svg)
-## *info*
 
+## ***About me***
 
 
 **Name:**
@@ -12,7 +12,7 @@ Abdulrahman Alghamdi
 عبدالرحمن الغامدي
 <br>
 <br>
-**about:** 
+**Description:** 
 <br>
 Cpmputer Science student exploring different areas of computing. This github for documenting my journey
 <br>
@@ -26,9 +26,7 @@ Tech Stuff
 الامور التقنيه
 </center>
 
-## ***Technologies***
-
-<h3 align="center">Languages and Tools:</h3>
+## ***Languages and Tools***
 
 ![Python](https://img.shields.io/badge/python-306998?style=flat&logo=python&logoColor=white)
 
