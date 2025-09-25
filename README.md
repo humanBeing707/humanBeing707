@@ -28,10 +28,9 @@ Tech Stuff
 
 ## ***Technologies***
 
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/python-306998?style=flat&logo=python&logoColor=white)
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
 <h3 align="left">Connect with me in:</h3>
 
