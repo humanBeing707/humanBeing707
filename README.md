@@ -40,4 +40,4 @@ Tech Stuff
 ## **GitHub Stats**
 
 ![](https://github-readme-stats.vercel.app/api?username=humanBeing707&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=humanBeing707&theme=coblat&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=humanBeing707&theme=dark&hide_border=true)<br/>
