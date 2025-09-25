@@ -13,7 +13,7 @@ Abdulrahman Alghamdi
 Computer Science student exploring various fields of computing. This GitHub is dedicated to documenting and sharing my journey.
 <br>
 <br>
-طالب علوم الحاسب أسعى لاكتشاف مختلف مجالاته. أنشأت هذا الحساب في GitHub لتوثيق ومشاركة رحلتي.  
+طالب علوم الحاسب أسعى لاكتشاف مختلف مجالات الحاسب. أنشأت هذا القتهوب لتوثيق ومشاركة رحلتي.  
 <br>
 <br>
 **Hobbies:**  
