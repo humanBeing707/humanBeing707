@@ -18,8 +18,8 @@ Computer Science student exploring various fields of computing. This GitHub is d
 <br>
 **Hobbies:**  
 
-Technology, Writing, Networking, Games
-الالعاب، الشبكات، الكتابه، التقنيه
+Technology, Networking, Writing, Games
+التقنيه، الشبكات، الكتابه،الالعاب
 </div>
 
 ## ***Languages and Tools***
