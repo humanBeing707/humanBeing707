@@ -14,7 +14,6 @@ Computer Science student at UQU Interested for studying data science
 <br>
 طالب ام القرى بتخصص علوم حاسب و مهتم في دراسة علم البيانات
 
-</div>
 
 ## ***Languages and Tools***
 
@@ -27,6 +26,8 @@ Computer Science student at UQU Interested for studying data science
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+</div>
 
 <!-- ## **GitHub Stats**
 
