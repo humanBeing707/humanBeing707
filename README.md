@@ -12,7 +12,6 @@ Abdulrahman Alghamdi
 **Description:**  
 Computer Science student at UQU Interested for studying data science
 <br>
-<br>
 طالب ام القرى بتخصص علوم حاسب و مهتم في دراسة علم البيانات
 
 </div>
@@ -20,6 +19,7 @@ Computer Science student at UQU Interested for studying data science
 ## ***Languages and Tools***
 
 ![Python](https://img.shields.io/badge/python-306998?style=flat&logo=python&logoColor=white)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
 [![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?logo=Renpy&logoColor=fff)](#)
